@@ -1,12 +1,15 @@
-#  Natis Movz 
+
+#   Natis Movz 
+
 <hr>
 <hr>
 
-![]()
+![](/natis/src/assets/media/stargathering.jpg)
 
 <br>
 
-##### <u>This App is dedicated to Natali Andersson as a tool to use.
+#### This App is dedicated to Natali Andersson as a tool to use.
+<br>
 
 ~~~~   
  
@@ -20,6 +23,7 @@
 ~~~~
 
 ## Content
+<br>
 
 ## Table of contents
 - [Markdown Badges](#markdown-badges)
@@ -34,3 +38,7 @@
 <hr>
 <br>
 
+## Existing Features
+<hr>
+
+### Navbar
